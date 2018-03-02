@@ -1,6 +1,5 @@
 require "faraday"
 require "json"
-require "pry"
 require "badger_vision/config"
 require "badger_vision/request"
 
